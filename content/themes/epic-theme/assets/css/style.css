@@ -61,3 +61,13 @@
 	margin-right: auto;
 	background-color: #fdffb6;
 }
+
+.blog-title {
+	font-size: 8em;
+	color: #d42a34;
+}
+
+.blog-description {
+	font-size: 2em;
+	color: #eb2f39;
+}
