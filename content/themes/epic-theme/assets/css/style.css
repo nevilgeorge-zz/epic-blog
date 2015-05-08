@@ -1,0 +1,20 @@
+/* style.css - user created styles */
+
+/*.site-wrapper {
+	background-color: #f5f8fa;
+}
+*/
+/*.vertical {
+	border-bottom: 0.5px solid black;
+}*/
+
+.list-content {
+	background-color: #fdffb6;
+	padding-top: 10px;
+	width: 70%;
+	/*border: 2px solid;*/
+	-webkit-box-shadow: -2px 2px 10px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: -2px 2px 10px 0px rgba(0,0,0,0.75);
+	box-shadow: -2px 2px 10px 0px rgba(0,0,0,0.75);
+	margin-left: 5%;
+}
