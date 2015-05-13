@@ -10,6 +10,8 @@
 
 .list-content {
 	background-color: #fdffb6;
+
+
 	padding-top: 10px;
 	-webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.75);
@@ -20,6 +22,8 @@
 
 .side-content {
 	background-color: #fdffb6;
+	
+	
 	padding: 10px;
 	width: 20%;
 	height: 300px;
@@ -29,6 +33,13 @@
 	margin-right: 5%;
 	margin-bottom: 30px;
 	float: right;
+}
+
+
+
+.side-links {
+	
+	height: 100px;
 }
 
 .post-main {
