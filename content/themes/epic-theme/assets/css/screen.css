@@ -919,7 +919,7 @@ body.nav-opened .nav {
     max-width: 710px;
     margin: 4rem auto;
     padding-bottom: 4rem;
-    border-bottom: #EBF2F6 1px solid;
+    border-bottom: #000000 1px solid;
     word-wrap: break-word;
 }
 
@@ -930,14 +930,14 @@ body.nav-opened .nav {
     content: "";
     width: 7px;
     height: 7px;
-    border: #E7EEF2 1px solid;
+    border: #B0232B 4px solid;
     position: absolute;
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
     background: #FFF;
     border-radius: 100%;
-    box-shadow: #FFF 0 0 0 5px;
+    box-shadow: #ef5961 0 0 0 5px;
 }
 
 body:not(.post-template) .post-title {
