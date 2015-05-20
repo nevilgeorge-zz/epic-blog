@@ -919,7 +919,7 @@ body.nav-opened .nav {
     max-width: 710px;
     margin: 4rem auto;
     padding-bottom: 4rem;
-    border-bottom: #000000 1px solid;
+    border-bottom: #f38288 1px solid;
     word-wrap: break-word;
 }
 
@@ -930,7 +930,7 @@ body.nav-opened .nav {
     content: "";
     width: 7px;
     height: 7px;
-    border: #B0232B 4px solid;
+    border: #ef5961 4px solid;
     position: absolute;
     bottom: -5px;
     left: 50%;

@@ -39,7 +39,7 @@
 
 .side-links {
 	
-	height: 100px;
+	height: 80px;
 }
 
 .post-main {
@@ -81,4 +81,29 @@
 .blog-description {
 	font-size: 2em;
 	color: #eb2f39;
+}
+.socialmedia_icon{
+margin-right: 4%;
+margin-right: 4%;
+}
+
+.glyphicon-small {
+    font-size: 1.2em;
+}
+
+.glyphicon-medium {
+    font-size: 2em;
+}
+
+.glyphicon-big {
+    font-size: 4em;
+}
+	
+
+.side-links-container{
+	background-color: blue;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 1%;
+	width: 90%;
 }
