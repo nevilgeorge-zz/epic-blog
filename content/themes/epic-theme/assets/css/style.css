@@ -99,9 +99,13 @@ margin-right: 4%;
     font-size: 4em;
 }
 	
+.side-tags a{
+
+	text-decoration: none;
+}
 
 .side-links-container{
-	background-color: blue;
+	background-color: #FAFAF7;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 1%;
