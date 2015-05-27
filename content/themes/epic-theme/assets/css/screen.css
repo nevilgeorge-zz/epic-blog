@@ -736,6 +736,7 @@ body.nav-opened .nav {
 /* Stop it bouncing and increase contrast when hovered */
 .scroll-down:hover {
     color: #fff;
+    text-decoration: none;
     -webkit-animation: none;
     animation: none;
 }
