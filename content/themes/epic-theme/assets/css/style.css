@@ -9,7 +9,7 @@
 }*/
 
 .list-content {
-	background-color: #fdffb6;
+	background-color: #FAFAF7;
 
 
 	padding-top: 10px;
@@ -21,12 +21,12 @@
 }
 
 .side-content {
-	background-color: #fdffb6;
+	background-color: #FAFAF7;
 	
 	
 	padding: 10px;
 	width: 20%;
-	height: 300px;
+	height: 90%;
 	-webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.75);
 	box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.75);
@@ -39,7 +39,7 @@
 
 .side-links {
 	
-	height: 100px;
+	height: 80px;
 }
 
 .post-main {
@@ -57,7 +57,7 @@
 	box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.75);
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #fdffb6;
+	background-color: #FAFAF7;
 }
 
 .author-panel {
@@ -70,7 +70,7 @@
 	box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.75);
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #fdffb6;
+	background-color: #FAFAF7;
 }
 
 .blog-title {
@@ -81,4 +81,33 @@
 .blog-description {
 	font-size: 2em;
 	color: #eb2f39;
+}
+.socialmedia_icon{
+margin-right: 4%;
+margin-right: 4%;
+}
+
+.glyphicon-small {
+    font-size: 1.2em;
+}
+
+.glyphicon-medium {
+    font-size: 2em;
+}
+
+.glyphicon-big {
+    font-size: 4em;
+}
+	
+.side-tags a{
+
+	text-decoration: none;
+}
+
+.side-links-container{
+	background-color: #FAFAF7;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 1%;
+	width: 90%;
 }
